@@ -1,20 +1,21 @@
 {
   "author" : "isaac as THE HONEY BADGER",
-  "description" : "[h1]Help! Help! We are being repressed![/h1]
-[h1]Come see the violence inherent in the system![/h1]
+  "description" : "^#5aa9d6;Help! Help! We are being repressed!^reset;
+
+^#5aa9d6;Come see the violence inherent in the system!^reset;
+
 This mod splits the vanilla races into three groups with each group sharing their clothing options within itself on the character creation screen. Not planning on adding the same group as recipes to the spinning wheel unless that gets requested.
-Now properly extends these changes to generated villagers.
 
 group 1: human apex
 group 2: hylotl glitch nova
 group 3: avian floran
 
-[url=community.playstarbound.com/threads/124193/]MEGATHREAD[/url]
-Find the server version on [url=https://github.com/IsaacHart/sbmod-culapprep/releases]git.[/url]
-[url=http://steamcommunity.com/workshop/filedetails/discussion/758357403/343785574522760858/]Request thread for this mod.[/url]",
-  "friendlyName" : "Cultural Appropriation (repression edition) Villager Update!",
-  "link" : "community.playstarbound.com/threads/124193/",
+For more, click the MEGATHREAD link from the steam page.",
+  "friendlyName" : "Cultural Appropriation (repression edition)",
+  "includes":[],
+  "link" : "steam://url/CommunityFilePage/758569725",
   "name" : "CULAPPREP.IHC",
+  "requires":[],
   "steamContentId" : "758569725",
-  "version" : "0.9"
+  "version" : "0.9a"
 }
