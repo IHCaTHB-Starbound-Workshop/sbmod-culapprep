@@ -12,9 +12,11 @@ group 3: avian floran
 [url=community.playstarbound.com/threads/124193/]MEGATHREAD[/url]
 Find the server version on [url=https://github.com/IsaacHart/sbmod-culapprep/releases]git.[/url]
 [url=http://steamcommunity.com/workshop/filedetails/discussion/758357403/343785574522760858/]Request thread for this mod.[/url]",
-  "friendlyName" : "Cultural Appropriation (repression edition) Villager Update!",
-  "link" : "community.playstarbound.com/threads/124193/",
+  "friendlyName" : "Cultural Appropriation (repression edition)",
+  "includes":[],
+  "link" : "steam://url/CommunityFilePage/758569725",
   "name" : "CULAPPREP.IHC",
+  "requires":[],
   "steamContentId" : "758569725",
-  "version" : "0.9"
+  "version" : "0.9a"
 }
